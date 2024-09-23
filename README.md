@@ -1,6 +1,4 @@
 
-![](/k8-nginx.png)
-
 # NGINX Deployment on Kubernetes with NodePort Service using Minikube
 
 This project demonstrates how to deploy an NGINX web server on a Kubernetes cluster using a **Deployment** and expose it using a **NodePort Service**.
@@ -9,7 +7,9 @@ This project demonstrates how to deploy an NGINX web server on a Kubernetes clus
 
 ## Quick Overview
 
-This guide walks through the steps of deploying NGINX in Kubernetes and exposing it via a **NodePort** service using **Minikube**. By the end, you’ll have an externally accessible NGINX web server running in your Kubernetes cluster.
+This guide walks through the steps of deploying NGINX in Kubernetes and exposing it via a **NodePort** service using **Minikube**. 
+
+By the end, you’ll have an externally accessible NGINX web server running in your Kubernetes cluster.
 
 ---
 
@@ -17,7 +17,7 @@ This guide walks through the steps of deploying NGINX in Kubernetes and exposing
 
 - **Minikube** installed on your machine.
 - **kubectl** (Kubernetes CLI) installed.
-- Basic understanding of Kubernetes concepts. If you're new to Kubernetes, check out the [Kubernetes Overview](ABOUT-KUBERNETES.md).
+- Basic understanding of Kubernetes concepts. If you're new to Kubernetes, check out my notes on [Kubernetes Overview]([ABOUT-KUBERNETES.md](https://github.com/zyusuf88/nginx-deployment-minikube/tree/main/overview)).
 
 ---
 
