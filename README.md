@@ -17,7 +17,7 @@ By the end, you’ll have an externally accessible NGINX web server running in y
 
 - **Minikube** installed on your machine.
 - **kubectl** (Kubernetes CLI) installed.
-- Basic understanding of Kubernetes concepts. If you're new to Kubernetes, check out my notes on [Kubernetes Overview]([ABOUT-KUBERNETES.md](https://github.com/zyusuf88/nginx-deployment-minikube/tree/main/overview)).
+- Basic understanding of Kubernetes concepts. If you're new to Kubernetes, check out my notes on [Kubernetes Overview](https://github.com/zyusuf88/nginx-deployment-minikube/tree/main/overview).
 
 ---
 
